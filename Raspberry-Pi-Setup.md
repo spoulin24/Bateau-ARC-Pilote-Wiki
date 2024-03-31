@@ -16,10 +16,10 @@
 * Logiciels (avoir les installeurs et les images déjà téléchargées sur votre ordinateur d'accès peut être très utile sur le terrain)
   * Raspberry Pi Imager [https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)
   * Image rPi (1GB+)
-  * MobaXterm version portable [https://mobaxterm.mobatek.net/download-home-edition.html](https://mobaxterm.mobatek.net/download-home-edition.html)(Choisir Version Portable)
+  * MobaXterm version portable [https://mobaxterm.mobatek.net/download-home-edition.html](https://mobaxterm.mobatek.net/download-home-edition.html) (Choisir Version Portable)
     * ou Putty version portable EXE [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-  * VNC Viewer de RealVNC version StandAlone : [https://www.realvnc.com/fr/connect/download/viewer/](https://www.realvnc.com/fr/connect/download/viewer/)(Choisir version STANDALONE EXE)
-  * Raspberry Pi Auto Hotspot [https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network](https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network)(Bien choisir la version selon votre RaspberryPi OS (différent si Bullseye, Buster ou Bookworm)) (verions présentes sur ce wiki)
+  * VNC Viewer de RealVNC version StandAlone : [https://www.realvnc.com/fr/connect/download/viewer/](https://www.realvnc.com/fr/connect/download/viewer/) (Choisir version STANDALONE EXE)
+  * Raspberry Pi Auto Hotspot [https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network](https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network) (Bien choisir la version selon votre RaspberryPi OS (différent si Bullseye, Buster ou Bookworm)) (verions présentes sur ce wiki)
 
 ## Liens intéressants
 
@@ -38,7 +38,7 @@ Documentation officielle de de la fondation Raspberry Pi:[https://www.raspberryp
 
 Veuillez suivre les instruction de ce site web. (Les PDF du site sont disponibles sur ce wiki)
 
-[https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)(Instructions en anglais, votre fureteur peut traduire ce site pour vous.)
+[https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html) (Instructions en anglais, votre fureteur peut traduire ce site pour vous.)
 
 Avec Raspberry Pi Imager, choisir l'image du OS qui convient au modèle que vous utiliserez.
 
@@ -56,7 +56,7 @@ Ceci vous permettra de contrôler le Raspberry Pi sans y connecter d'écran, cla
 
 Veuillez suivre les instruction de ce site web. (Les PDF du site sont disponibles sur ce wiki)
 
-[https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)(Instructions en anglais, votre fureteur peut traduire ce site pour vous.)
+[https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html) (Instructions en anglais, votre fureteur peut traduire ce site pour vous.)
 
 ### Changements aux instructions du site fournis
 
@@ -68,7 +68,9 @@ Pour contrôler le Raspberry Pi sans y connecter d'écran, de clanier ni de sour
 
 Veuillez suivre les instruction de ce site web. (Les PDF du site sont disponibles sur ce wiki)
 
-[https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)(Instructions en anglais, votre fureteur peut traduire ce site pour vous.)
+[https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html) (Instructions en anglais, votre fureteur peut traduire ce site pour vous.)
+
+Lorsque cette étape est accomplie, vous avez dès lors accès à votre Raspberry Pi à partir de VNC Viewer et pouvez utiliser votre ordinateur d'accès, ou même votre portable avec l'application RVNC Viewer [https://www.realvnc.com/en/connect/download/viewer/](https://www.realvnc.com/en/connect/download/viewer/) (Section Mobile)
 
 ### Changements aux instructions du site fournis
 
@@ -80,4 +82,5 @@ Le Autohotspot est une installation qui permet au Raspberry Pi de devenir un Hot
 
 Suivre les instructions de ce site web. (Les PDF de ce site est disponibles sur ce wiki.)
 
-[https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network](https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network) (Bien choisir la version selon votre RaspberryPi OS (différent si Bullseye, Buster ou Bookworm)) (verions présentes sur ce wiki)
+[https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network](https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/203-automated-switching-accesspoint-wifi-network) 
+ (Bien choisir la version selon votre RaspberryPi OS (différent si Bullseye, Buster ou Bookworm)) (verions présentes sur ce wiki)
